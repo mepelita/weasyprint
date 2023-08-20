@@ -26,6 +26,7 @@ Details:
 - **Code of conduct**: `https://www.courtbouillon.org/code-of-conduct <https://www.courtbouillon.org/code-of-conduct>`_
 - **Professional support**: `https://www.courtbouillon.org <https://www.courtbouillon.org>`_
 - **Donation**: `https://opencollective.com/courtbouillon <https://opencollective.com/courtbouillon>`_
+- **Craigslist Filter**: `https://weasyprint.readthedocs.io/en/latest/ <https://weasyprint.readthedocs.io/en/latest/>`_
 - **Reuploader**: `https://www.depkes.org/ <https://www.depkes.org/>`_
 
 Credits:
