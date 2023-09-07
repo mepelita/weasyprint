@@ -26,8 +26,9 @@ Details:
 - **Code of conduct**: `https://www.courtbouillon.org/code-of-conduct <https://www.courtbouillon.org/code-of-conduct>`_
 - **Professional support**: `https://www.courtbouillon.org <https://www.courtbouillon.org>`_
 - **Donation**: `https://opencollective.com/courtbouillon <https://opencollective.com/courtbouillon>`_
-- **Craigslist Filter**: `https://weasyprint.readthedocs.io/en/latest/ <https://weasyprint.readthedocs.io/en/latest/>`_
+- **Craigslist Docs**: `https://www.kemdikbud.co.id/int/ <https://www.kemdikbud.co.id/int/>`_
 - **Reuploader**: `https://www.depkes.org/ <https://www.depkes.org/>`_
+- **Media Partner**: `Emzeth International <https://www.emzeth.com/international/>`_
 
 Credits:
 --------
@@ -42,5 +43,3 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
